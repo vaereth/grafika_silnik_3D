@@ -1,0 +1,6 @@
+﻿  Engine.cpp
+C:\Users\Kamila P\Documents\PROGRAMOWANIE\C++\Projekt - grafika 1\GRAFIKA 3D 1.0\GRAFIKA 3D 1.0\Engine.cpp(127,41): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kamila P\Documents\PROGRAMOWANIE\C++\Projekt - grafika 1\GRAFIKA 3D 1.0\GRAFIKA 3D 1.0\Engine.cpp(128,41): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+  main.cpp
+  Generowanie kodu...
+  GRAFIKA 3D 1.0.vcxproj -> C:\Users\Kamila P\Documents\PROGRAMOWANIE\C++\Projekt - grafika 1\GRAFIKA 3D 1.0\x64\Debug\GRAFIKA 3D 1.0.exe
